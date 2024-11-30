@@ -49,7 +49,6 @@ app.*.map.json
 /android/key.properties
 
 # Ignore platform test related files
-coverage
 test/**/failures/**/*.*
 !test/**/goldens/ci/*.*
 
